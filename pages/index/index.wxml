@@ -1,2 +1,5 @@
 <!--index.wxml-->
 <view class="title">Hello Mini Program</view>
+
+<!-- 1.小程序初体验 -->
+<view>小程序初体验</view>
