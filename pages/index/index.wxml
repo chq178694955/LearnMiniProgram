@@ -1,2 +1,5 @@
 <!--index.wxml-->
 <view class="title">Hello Mini Program</view>
+
+<!-- 1.git管理 -->
+<view>git管理</view>
