@@ -1,2 +1,14 @@
 <!--index.wxml-->
 <view class="title">Hello Mini Program</view>
+
+<!-- 1.小程序的数据绑定 -->
+<view>{{title}}</view>
+<view>我的年龄：{{age}}</view>
+
+<!-- 2.列表展示 wx:for="" -->
+<view wx:for="{{students}}" wx:key="index">{{item.name}} {{index}}</view>
+
+<!-- 3.事件监听，点击按钮修改data属性值  -->
+<button size="mini" bind:tap="handlerIncrement">计数+1</button>
+<button size='mini' bind:tap='handlerSubtract'>计数-1</button>
+<view>当前计数：{{counter}}</view>
