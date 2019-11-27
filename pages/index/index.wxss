@@ -8,3 +8,10 @@
   font-size:60rpx;
   text-align: center;
 }
+
+.biaoti{
+  margin-top:20rpx;
+  font-weight: 400;
+  font-size:36rpx;
+  color:blue;
+}

@@ -1,2 +1,16 @@
 <!--index.wxml-->
 <view class="title">Hello Mini Program</view>
+
+<!-- 1.理解MVVM架构|双线程模型 -->
+<view class="biaoti">小程序MVVM架构(从命令式编程转向声明式编程,双线程模型)</view>
+<view>1.M代表Model</view>
+<view>2.V代表View</view>
+<view>3.VM代表ViewModel</view>
+
+<!-- 2.理解project.config.json配置文件 -->
+<view class="biaoti">project.config.json是整个项目的配置文件</view>
+<view>1.比如可以配置核心库版本</view>
+<view>2.项目一系列基础设置</view>
+
+<!-- 3.理解sitemap.jso配置文件 -->
+<view class="biaoti">应用于微信搜索，是否允许微信搜索等等</view>
