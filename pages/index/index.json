@@ -1,3 +1,9 @@
 {
-  "usingComponents": {}
+  "usingComponents": {},
+  "navigationBarTitleText": "我的首页",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#000000",
+  "enablePullDownRefresh": true,
+  "backgroundColor": "blue",
+  "backgroundTextStyle": "dark"
 }
