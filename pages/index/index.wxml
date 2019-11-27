@@ -1,2 +1,8 @@
 <!--index.wxml-->
 <view class="title">Hello Mini Program</view>
+
+<!-- 1.app.json配置文件讲解 -->
+
+<!-- 1.1 window属性的讲解 -->
+
+<!-- 1.2 tabBar属性的讲解 -->
